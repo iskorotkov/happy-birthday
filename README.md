@@ -11,3 +11,4 @@ Developed with Unreal Engine 4
 - FogGradients
 - MegaGameMusicCollection
 - ParagonAurora
+- Small Animal Behavior Pack
